@@ -1,3 +1,3 @@
-# Vie-sociale-des-donn-es---Le-guide-Michelin
+# La Vie sociale des données - Le guide Michelin
 ## Introduction
 
