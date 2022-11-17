@@ -1,4 +1,4 @@
-# La vie sociale des données - Le guide Michelin
+# La vie sociale des données - Le Guide Michelin
 
 ![le guide rouge](https://boutique.laventure.michelin.com/wp-content/uploads/2021/01/Guide-Rouge-2022.png)
 
