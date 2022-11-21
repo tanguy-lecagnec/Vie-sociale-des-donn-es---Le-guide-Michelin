@@ -54,7 +54,7 @@ Le restaurant Anona nous a expliqué, au-delà du secret de la grille précise d
 - Usage : chercher le référencement et le maintenir une fois obtenu. Conserver une qualité constante pour se préparer aux futures inspections.
 - Réalité : l’impact du recensement sur la vie du restaurant. Restaurant Nous 4 : plus de visibilité, plus de clients, notoriété et donc exigence dans la réponse aux attentes des visiteurs…)
 
-La liste des restaurants créés par Michelin est reconnue internationalement : lors du lancement du premier guide Michelin pour Tokyo en 2007, 120 000 exemplaires ont été vendus en quatre jours au Japon. Des rapports ont indiqué que le nombre de réservations dans les restaurants étoilés avait été multiplié par plusieurs. 
+La liste des restaurants créée par Michelin est reconnue internationalement : lors du lancement du premier guide Michelin pour Tokyo en 2007, 120 000 exemplaires ont été vendus en quatre jours au Japon. Des rapports ont indiqué que le nombre de réservations dans les restaurants étoilés avait été multiplié par plusieurs. 
 
 Que signifie donc Michelin pour les chefs et les restaurateurs ? Le restaurant Nous 4 à Paris a été répertorié sur le site web de Michelin en 2018, bien qu'il n'ait pas d'étoile. Cela lui a apporté plus de visibilité, plus de clients, de notoriété. Il est donc maintenant capable de fournir l’exigence dans la réponse aux attentes des visiteurs.
 Que signifie donc Michelin pour les chefs et les restaurateurs ? Le restaurant Nous 4 à Paris a été répertorié sur le site web de Michelin en 2018, bien qu'il n'ait pas d'étoile.
