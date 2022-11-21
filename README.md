@@ -52,7 +52,7 @@ Le restaurant Anona nous a expliqué, au-delà du secret de la grille précise d
 ## Les usages et la réalité de la base de données
 
 - Usage : chercher le référencement et le maintenir une fois obtenu. Conserver une qualité constante pour se préparer aux futures inspections.
-- Réalité : l’impact du recensement sur la vie du restaurant. Restaurant Nous 4 : plus de visibilité, plus de clients, notoriété et donc exigence dans la réponse aux attentes des visiteurs…)
+- Réalité : l’impact du recensement sur la vie du restaurant : meilleure visibilité et notoriété, plus de clients et donc exigence dans la réponse aux attentes des visiteurs.
 
 La liste des restaurants créée par Michelin est reconnue internationalement : lors du lancement du premier guide Michelin pour Tokyo en 2007, 120 000 exemplaires ont été vendus en quatre jours au Japon. Des rapports ont indiqué que le nombre de réservations dans les restaurants étoilés avait été multiplié par plusieurs. 
 
