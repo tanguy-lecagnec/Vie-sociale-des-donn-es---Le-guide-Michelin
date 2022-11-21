@@ -49,6 +49,34 @@ Le restaurateur de Nous 4 a également fait part du flou qui régnait autour des
 Le restaurant Anona nous a expliqué, au-delà du secret de la grille précise d’évaluation du Guide, avoir conscience que la fermeté des critères ne laisse qu' “une place limitée à l'appréciation personnelle des inspecteurs du Michelin ». Contrairement à l'Étoile Rouge, pour l'Étoile Verte il n'y a pas de véritables critères. Selon le restaurant, détenant lui-même cette distinction, « le Michelin part du principe que la gastronomie doit poursuivre sa réflexion et son évolution pour rendre le secteur plus durable, mais il considère qu'aujourd'hui il n'y pas une seule voie possible ». C’est avant tout la démarche globale du restaurant, son approche soutenable de la cuisine, et la manière dont il le communique et le place au centre de ses valeurs, qui sont valorisées. 
 
 
+## Les usages et la réalité de la base de données
+
+- Usage : chercher le référencement et le maintenir une fois obtenu. Conserver une qualité constante pour se préparer aux futures inspections.
+- Réalité : l’impact du recensement sur la vie du restaurant. Restaurant Nous 4 : plus de visibilité, plus de clients, notoriété et donc exigence dans la réponse aux attentes des visiteurs…)
+
+La liste des restaurants créés par Michelin est reconnue internationalement : lors du lancement du premier guide Michelin pour Tokyo en 2007, 120 000 exemplaires ont été vendus en quatre jours au Japon. Des rapports ont indiqué que le nombre de réservations dans les restaurants étoilés avait été multiplié par plusieurs. 
+
+Que signifie donc Michelin pour les chefs et les restaurateurs ? Le restaurant Nous 4 à Paris a été répertorié sur le site web de Michelin en 2018, bien qu'il n'ait pas d'étoile. Cela lui a apporté plus de visibilité, plus de clients, de notoriété. Il est donc maintenant capable de fournir l’exigence dans la réponse aux attentes des visiteurs.
+
+Pour Kei Kobayashi, le chef du restaurant KEI à Paris, Michelin signifie plus d’importance. Il a ouvert son restaurant en 2011, a obtenu une étoile Michelin l'année suivante, deux étoiles en 2017 et est devenu le premier Asiatique à obtenir trois étoiles pour la cuisine française à Paris en 2020.
+" Dès l'ouverture de mon restaurant, j'ai visé les trois étoiles. Il y a beaucoup de grands chefs (indépendamment du nombre d'étoiles). Mais pour moi, ma conception du monde était quelque chose que je pouvais enfin créer après avoir obtenu trois étoiles au Michelin. J'avais visé les trois étoiles parce que je pensais qu'en tant que chef, je devais faire mon restaurant trois étoiles pour pouvoir exprimer ma vision du monde - non seulement par la cuisine, mais aussi par le choix de la vaisselle et de l'argenterie, ainsi que par la présentation de l'espace - et créer ma propre marque.  J'ai donc visé les trois étoiles."
+
+Il en ressort que trois étoiles Michelin signifient davantage pour un chef que le simple fait d'être "bien noté dans un guide". En d'autres termes, les trois étoiles sont un objectif internalisé. Par ailleurs, trois étoiles est également un indicateur de la gestion du restaurant.
+
+Le parcours de neuf ans de l'ouverture du restaurant à trois étoiles
+"Mon maître, Alain Ducasse, a obtenu trois étoiles en trois ans, alors je ne sais pas si neuf ans, c'est long ou court. Mais j'ai eu l'impression qu'il m'a fallu beaucoup de temps pour passer d'une à deux étoiles. 
+Lorsque les trois étoiles pour 2020 sont annoncées et que je suis monté sur scène, j'ai pensé : "Maintenant, je peux enfin voir la lumière brillante", mais ce n'était que pour un instant. Chaque année, une nouvelle édition du guide Michelin des restaurants est publiée. Même si vous avez trois étoiles, ce n'est pas pour toute la vie, donc à partir de là, j'ai ressenti à la fois un sentiment de mission et la pression d'être un chef trois étoiles pour aller chercher trois étoiles chaque année.
+Je ne pense pas en termes de maintien de trois étoiles. Je commence toujours l'année avec le sentiment que je vais obtenir les trois étoiles de l'année."
+
+Stratégies pour atteindre trois étoiles.
+"Le temps est la chose la plus importante. Réfléchir à la manière de faire évoluer le restaurant au jour le jour, face aux aliments, aux clients, aux producteurs et aux fournisseurs. Et de se demander comment établir de bonnes relations avec les clients, les producteurs, les fournisseurs et les journalistes. J'ai passé chaque jour à chercher comment faire pour que demain soit meilleur qu'aujourd'hui.
+Je veux faire face à chacun de nos clients et créer un restaurant qu'ils considèrent comme le meilleur du monde. Bien sûr, les médias et les journalistes sont aussi des clients puisqu'ils viennent dans notre restaurant, nous ne les traitons donc pas différemment des autres clients qui nous entourent. Tout d'abord, créer un restaurant qui soit considéré comme le meilleur du monde par chacun de mes clients. Je crois que la valorisation est quelque chose qui vient avec."
+ 
+Les restaurants n'ont pas été universellement l'objet de valorisation. Michelin lui-même ne les a pas notés lors de la première édition du guide. Il a tardivement créé le concept de noter le restaurant et sa cuisine. Ce concept s'est répandu au fur et à mesure que le guide Michelin s'est imposé.
+
+Au fur et à mesure que l'influence du guide Michelin s'est accrue, les classification réalisées par Michelin ont pris de la valeur en elles-mêmes.. Dans "Numbers and Objectivity", Theodore M. Porter dit que le "but ultime (des chiffres) est d'inculquer une éthique." “Les notes à l'école, les résultats aux examens standardisés et le résultat net sur une feuille comptable ne peuvent avoir d'efficacité que si leur validité, ou du moins leur vraisemblance, est acceptée par les personnes dont ils sont censés mesurer les réalisations ou la valeur. Lorsque c'est le cas, les mesures atteignent leur but en donnant un sens aux activités mêmes qui sont mesurées". 
+
+Dans le cas du Guide Michelin, lorsque la validité de Michelin a été acceptée, il a fourni un sens sur le type de cuisine et d'exploitation des restaurants qu'il mesurait.  En d'autres termes, les consommateurs et les patronats ont pris conscience que les meilleurs restaurants sont ceux qui servent des plats étoilés et qui fonctionnent de manière étoilée (ouverts au public, et non pas réservés aux membres).
 
 
 ## Les limites et évolutions de ce jeu données 
@@ -61,5 +89,3 @@ Enfin, Le Guide Michelin fait face à de nombreux nouveaux concurrents, qui sont
 
 Le guide paraît cependant très au clair sur ses propres limites et ne cesse d’innover pour tenter de rester à jour. Ainsi le guide papier est maintenant accompagné d’un site internet, et d’une application créée en 2009. Il crée également de nouvelles catégories (même si elles ne sont pas encore parfaites comme cela a été expliqué avant), comme le Bib Gourmand en 1997, l’Assiette Michelin, ou encore l'Étoile Verte récompensant les démarches écologiques dans la gastronomie apparue en 2020. Ses critères restent cependant très flous et on ne sait pas bien ce que les inspecteurs regardent, et comment ils procèdent aux vérifications. Cette nouvelle catégorie semble alors un peu fade comparé au label EcoTable spécialisé dans ce domaine. Le guide a donc encore du chemin à faire pour se réinventer et s’assurer de rester dans la compétition tout en répondant aux attentes de ses usagers.
 
-
-## Conclusion
